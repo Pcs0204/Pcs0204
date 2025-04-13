@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yeungnam+Univ.;Computer+Engineering)](https://git.io/typing-svg)
+영남대 컴공 24학번 박찬승입니다.
