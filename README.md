@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20%World!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontSize=50&text=Hello%20%World!)
 
 <!--
 **Pcs0204/Pcs0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
